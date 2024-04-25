@@ -1,0 +1,18 @@
+{
+	"validationFirstNameRequired": "First name is required",
+	"validationFirstNameBase": "Please enter valid first name",
+	"validationLastNameRequired": "Last name is required",
+	"validationLastNameBase": "Please enter valid last name",
+	"SomethingWentWrongPleaseTryAgain": "Something Went Wrong. Please Try Again",
+	"validationPhoneBase": "Please enter valid phone no.",
+	"contactAddedSuccefully": "Add Contact Succefully",
+	"getContactSuccessfully": "Get Contact Successfully",
+	"validationIdRequired": "Please enter valid Contact Id",
+	"contactdeletedSuccefully": "Delete Contact Succefully",
+	"validationContactIdRequired": "Please enter Contact Id",
+	"contactExportSuccefully": "Export Contact Succefully",
+	"contactUpdatedSuccefully": "Update Contact Succefully",
+	"ErrorExportingContacts": "Error Exporting Contacts",
+	"contactDeletedSuccessfully": "Delete contact Successfully",
+	"contactNotFound": "Contact Not Found"
+}
